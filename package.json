@@ -1,0 +1,20 @@
+{
+  "name": "web-services-testing",
+  "version": "0.0.1",
+  "author": "Kiryl Shytsikau",
+  "engines": {
+    "node": ">=6.9.0"
+  },
+  "private": true,
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "whatwg-fetch": "^2.0.4",
+    "node-fetch": "^2.1.2",
+    "xmlhttprequest": "^1.8.0",
+    "request": "^2.87.0",
+    "axios": "^0.18.0",
+    "superagent": "^3.8.3",
+    "got": "^8.3.1"
+  }
+}
