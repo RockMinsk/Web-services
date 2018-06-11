@@ -1,13 +1,29 @@
 {
   "name": "web-services-testing",
-  "version": "0.0.1",
-  "author": "Kiryl Shytsikau",
+  "version": "1.0.0",
+  "author": "Kiryl Shytsikau <kiryl.shytsikau@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RockMinsk/web-services/issues"
+  },
+  "homepage": "https://github.com/RockMinsk/web-services#readme",
   "engines": {
     "node": ">=6.9.0"
   },
   "private": true,
   "lockfileVersion": 1,
   "requires": true,
+  "scripts": {
+    "axios": "node axios.js",
+    "chakram": "mocha chakram.js",
+    "got": "node got.js",
+    "http": "node http.js",
+    "httpRequest": "node httpRequest.js",
+    "node-fetch": "node node-fetch.js",
+    "request": "node request.js",
+    "superagent": "node superagent.js",
+    "whatwg-fetch": "node whatwg-fetsh.js"
+  },
   "dependencies": {
     "whatwg-fetch": "^2.0.4",
     "node-fetch": "^2.1.2",

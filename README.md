@@ -23,16 +23,16 @@ request - https://www.npmjs.com/package/request#promises--asyncawait
 
 request-promise - https://www.npmjs.com/package/request-promise
 
-axios - https://github.com/axios/axios
+axios - https://github.com/axios/axios,
       - https://www.npmjs.com/package/axios
 	  
-superagent - https://github.com/visionmedia/superagent
+superagent - https://github.com/visionmedia/superagent,
 		   - https://www.npmjs.com/package/superagent
 		   
-got - https://github.com/sindresorhus/got
+got - https://github.com/sindresorhus/got,
     - https://www.npmjs.com/package/got
 	
 node-fetch - https://www.npmjs.com/package/node-fetch
 
-chakram - http://dareid.github.io/chakram/
+chakram - http://dareid.github.io/chakram,
         - https://www.npmjs.com/package/chakram
