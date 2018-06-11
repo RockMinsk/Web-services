@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "author": "Kiryl Shytsikau <kiryl.shytsikau@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RockMinsk/web-services/"
+  },
   "bugs": {
     "url": "https://github.com/RockMinsk/web-services/issues"
   },
@@ -10,9 +14,6 @@
   "engines": {
     "node": ">=6.9.0"
   },
-  "private": true,
-  "lockfileVersion": 1,
-  "requires": true,
   "scripts": {
     "axios": "node axios.js",
     "chakram": "mocha chakram.js",
