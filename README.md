@@ -1,3 +1,22 @@
+# web-services
+
+Training project to test web services.
+
+## Requirements
+
+* Git
+* NodeJS 8 (6 is also supported)
+
+## Setup
+
+```
+$> git clone https://github.com/RockMinsk/web-services
+$> cd web-services
+$> npm install
+```
+
+## Useful links
+
 https://www.twilio.com/blog/2017/08/http-requests-in-node-js.html
 
 request - https://www.npmjs.com/package/request#promises--asyncawait
