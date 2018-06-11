@@ -33,3 +33,6 @@ got - https://github.com/sindresorhus/got
     - https://www.npmjs.com/package/got
 	
 node-fetch - https://www.npmjs.com/package/node-fetch
+
+chakram - http://dareid.github.io/chakram/
+        - https://www.npmjs.com/package/chakram
